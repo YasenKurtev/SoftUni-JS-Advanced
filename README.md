@@ -13,4 +13,5 @@ The main topics are:
 9. Prototypes and Inheritance
 
 Each topic contains two main categories - Lab and Exercise.
+
 The descriptions for the different tasks are included in the README.md file in each folder.
